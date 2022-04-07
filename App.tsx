@@ -1,7 +1,8 @@
 import React from "react";
 import LoginScreen from "./src/components/LoginScreen";
-import Teste from "./src/testes/FlatLIst";
+import TesteFlatList from "./src/testes/FlatLIst";
+import TesteButtons from "./src/testes/Buttons";
 
 export default function App() {
-  return <Teste />;
+  return <TesteButtons />;
 }
